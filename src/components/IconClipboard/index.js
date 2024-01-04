@@ -1,0 +1,1 @@
+export { IconClipboard } from "./IconClipboard";

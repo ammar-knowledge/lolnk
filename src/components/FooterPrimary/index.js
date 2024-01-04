@@ -1,0 +1,1 @@
+export { FooterPrimary } from "./FooterPrimary";

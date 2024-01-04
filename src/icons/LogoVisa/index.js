@@ -1,0 +1,1 @@
+export { LogoVisa } from "./LogoVisa";

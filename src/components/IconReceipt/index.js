@@ -1,0 +1,1 @@
+export { IconReceipt } from "./IconReceipt";

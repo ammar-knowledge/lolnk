@@ -1,0 +1,22 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --drop-shadow-black: 0px 2px 6px 0px rgba(0, 0, 0, 0.25);
+  --linearbackground: rgba(240, 242, 245, 1);
+  --linearcloud: rgba(248, 249, 250, 1);
+  --lineardark-black: rgba(25, 25, 25, 1);
+  --lineardark-blue: rgba(52, 71, 103, 1);
+  --lineardark-mud: rgba(79, 79, 82, 1);
+  --lineargreen: rgba(76, 175, 80, 1);
+  --lineargrey: rgba(123, 128, 154, 1);
+  --linearred: rgba(233, 31, 99, 1);
+  --linearred-orange: rgba(244, 67, 52, 1);
+  --linearwhite: rgba(255, 255, 255, 1);
+}

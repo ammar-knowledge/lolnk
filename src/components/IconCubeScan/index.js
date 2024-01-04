@@ -1,0 +1,1 @@
+export { IconCubeScan } from "./IconCubeScan";
