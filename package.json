@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
-    "htmlnano": "2.0.3",
+    "htmlnano": "2.1.1",
     "parcel": "^2.8.0",
     "parcel-reporter-static-files-copy": "^1.5.0",
     "postcss": "^8.4.27",
